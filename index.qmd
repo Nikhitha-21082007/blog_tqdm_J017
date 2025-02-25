@@ -1,5 +1,7 @@
 ---
-title: Quarto Template
+title: Blog of TQDM
 ---
 
-Quarto template Text!
+This is an blog article of a python library TQDM
+
+By Boinapally Dhanvini(24110079) , Bollineni Snehitha(24110081) , Paleti Nikhitha Chowdary(24110233)
